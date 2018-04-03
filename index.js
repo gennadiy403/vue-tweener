@@ -1,4 +1,4 @@
-import TWEEN from 'tween.js';
+import TWEEN from 'tween';
 
 (function () {
 	var plugin;
